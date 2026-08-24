@@ -7,4 +7,4 @@
 
 # Quarter 1
 ## Activities
-[Computational Thinking Skills](./q1/q1/ctskillsMagnesiumRelloso.md)
+[Computational Thinking Skills](./q1/ctskillsMagnesiumRelloso.md)
