@@ -10,3 +10,5 @@
 [Computational Thinking Skills](./q1/ctskillsMagnesiumRelloso.md)
 
 [Chinese Zodiac Sign Calculator](./q1/zodiacMagnesiumRelloso.py)
+
+[(docu) Chinese Zodiac Sign Calculator](./q1/zodiacMagnesiumRelloso.md)
