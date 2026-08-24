@@ -8,3 +8,4 @@
 # Quarter 1
 ## Activities
 [Computational Thinking Skills](./q1/ctskillsMagnesiumRelloso.md)
+[Chinese Zodiac Sign Calculator](./q1/zodiacMagnesiumRelloso.py)
