@@ -29,9 +29,14 @@ Sub-Problem	CT Skill	Example Solution
 
 START
 
+
 ASK the user to input the food
+
 ASK the user again to enter the amount of food
+
 ENTER the equation add or multiply
+
 PRINT the total with two decimals
+
 
 END
