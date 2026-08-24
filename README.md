@@ -7,3 +7,4 @@
 
 # Quarter 1
 ## Activities
+[Computational Thinking Skills](./q1/zodiac.md)
