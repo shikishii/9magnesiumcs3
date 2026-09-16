@@ -2,13 +2,16 @@
 ## Inventory
 ## Displays the inventory's items in-game, and allows the user to place items in the inventory and remove it in-game.
 ## Properties
+
 | Property | Data Type | Description |
+|---|---|---|
 | display | string | displays the items |
 | amount | int | amount of each items |
 | description | string | displays detailed description of each individual item |
 | available | boolean | indicates if the item is inside the inventory |
 
 | Method | Description |
+|---|---|
 | separate | separates grouped items |
 | edit  | edits the placement of the items in the inventory |
 | throw | throws the items away to clear out your inventory | 
