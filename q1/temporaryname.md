@@ -1,5 +1,4 @@
 ## Design Revision
--
 Only the descriptives.
 
 Changes from my previous design:
