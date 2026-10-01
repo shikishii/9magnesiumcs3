@@ -3,6 +3,8 @@ Changes from my previous design:
 -
 No major changes were needed from my original design.
 
+## Decide what is Public or Private
+
 | Attribute | Data Type | Visibility | Why Public/Private? |
 |---|---|---|---|
 | display | string | **Public** | other parts of the game need to display the item |
