@@ -8,7 +8,7 @@
 | display | string | displays the items |
 | amount | int | amount of each items |
 | description | string | displays detailed description of each individual item |
-| available | boolean | indicates if the item is inside the inventory |
+
 
 | Method | Description |
 |---|---|
