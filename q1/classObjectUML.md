@@ -18,7 +18,8 @@
 | collect  | collects the items dropped by exploration in-game |
 
 ## Class Diagram
-![Class Diagram](IMG_4224.jpeg)
+<img width="833" height="811" alt="image" src="https://github.com/user-attachments/assets/cb8cb3f0-8e13-46ea-813e-aefe58a36154" />
+
 ## Design Explanation
 ### I chose this because I love games and I wanted to show basics of inventories.
 ### The display is the most important because one should see the items at first glance so that the gameplay is smooth and uncomplicated.
