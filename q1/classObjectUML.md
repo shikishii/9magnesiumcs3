@@ -8,7 +8,7 @@
 | display | string | displays the items |
 | amount | int | amount of each items |
 | description | string | displays detailed description of each individual item |
-| capacity | int | the capacity of the items inside the inventory |
+| capacity | int | the capacity of the items able to be held inside the inventory |
 
 
 | Method | Description |
