@@ -16,3 +16,8 @@
 [ILA 3-1: Applying the Four Pillars of OOP](./q1/ila_oop.md)
 
 [OOPAct1](./q1/classObjectUML.md)
+
+
+# Quarter 2
+## Activities
+[Encapsulation Activity](./q2/sg8_encapsulation.py)
